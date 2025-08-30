@@ -4,7 +4,7 @@
 
 💻 **Backend Developer | Java Enthusiast | System Builder**  
 
-I’m a **Backend Developer** with 3+ years of experience turning complex ideas into **scalable, secure, and high-performance applications**.  
+I’m a **Backend Developer** with 4+ years of experience turning complex ideas into **scalable, secure, and high-performance applications**.  
 I love architecting **microservices**, designing **REST APIs**, and making systems talk smoothly with **Kafka & databases**.  
 For me, the magic happens **behind the scenes**, where code meets architecture.  
 
@@ -26,8 +26,7 @@ For me, the magic happens **behind the scenes**, where code meets architecture.
 ---
 
 ### 🔗 Portfolio  
-Check out my work & projects here 👉  
-<a href="https://mishu-singh.vercel.app/" target="_blank">🌐 mishu-singh.vercel.app</a>  
+Check out my work & projects here 👉  <a href="https://mishu-singh.vercel.app/" target="_blank">🌐 mishu-singh.vercel.app</a>  
 
 ---
 
