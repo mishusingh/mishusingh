@@ -4,24 +4,31 @@
 
 💻 **Backend Developer | Java Enthusiast | System Builder**  
 
-I’m a **Backend Developer** with 4+ years of experience turning complex ideas into **scalable, secure, and high-performance applications**.  
-I love architecting **microservices**, designing **REST APIs**, and making systems talk smoothly with **Kafka & databases**.  
-For me, the magic happens **behind the scenes**, where code meets architecture.  
+I’m **Mishu Singh**, a Backend Developer based in **Pune, India**.  
+My journey into tech started with a fascination for how systems **work behind the scenes** — how a single API call can ripple through layers of code and data to deliver magic on the screen.  
+
+Over the past **4+ years**, I’ve been building that magic myself:  
+- Designing **scalable microservices** with **Java & Spring Boot**  
+- Securing systems with **OAuth2, JWT & Okta**  
+- Making services talk through **Kafka**  
+- Keeping deployments smooth with **Docker & Kubernetes**  
+
+For me, backend isn’t just code — it’s about **architecture, performance, and reliability**. It’s the invisible backbone that makes user experiences seamless.  
 
 ---
 
-### 🚀 Tech Stack  
-- **Languages & Frameworks:** Java 8/17, Spring Boot, Spring Data JPA, Spring Security, Hibernate  
-- **DevOps & Tools:** Docker, Kubernetes, GitHub Actions, Jenkins, Postman, IntelliJ, Jira  
-- **Databases:** MySQL, PostgreSQL, Oracle  
-- **Messaging & Auth:** Kafka, JWT, OAuth2, Okta/Keycloak  
+### 🚀 My Toolbox  
+🛠️ **Languages & Frameworks:** Java 8/17, Spring Boot, Spring Data JPA, Spring Security, Hibernate  
+⚙️ **DevOps & Tools:** Docker, Kubernetes, GitHub Actions, Jenkins, Postman, IntelliJ, Jira  
+🗄️ **Databases:** MySQL, PostgreSQL, Oracle  
+📩 **Messaging & Auth:** Kafka, JWT, OAuth2, Okta/Keycloak  
 
 ---
 
-### 🌱 Currently Exploring  
-- **Cloud-Native Architecture** ☁️ to scale apps smarter  
-- **System Design Patterns** for resilient backend solutions  
-- **Open Source Projects** that challenge me to grow  
+### 🌱 Right now, I’m...  
+- Exploring **cloud-native architecture** ☁️  
+- Learning **system design patterns** for high-scale apps  
+- Contributing to **open-source backend projects**  
 
 ---
 
@@ -43,4 +50,4 @@ Check out my work & projects here 👉  <a href="https://mishu-singh.vercel.app/
 
 ---
 
-✨ *“Great backend code is invisible — until it fails. My job is to make sure it never does.”* ✨  
+✨ *“Every great app has a story. Mine begins at the backend, where the real magic happens.”* ✨  
