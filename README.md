@@ -11,7 +11,7 @@ Over the past **4+ years**, I’ve been building that magic myself:
 - Designing **scalable microservices** with **Java & Spring Boot**  
 - Securing systems with **OAuth2, JWT & Okta**  
 - Making services talk through **Kafka**  
-- Keeping deployments smooth with **Docker & Kubernetes**  
+- Keeping deployments smooth with **Docker**  
 
 For me, backend isn’t just code — it’s about **architecture, performance, and reliability**. It’s the invisible backbone that makes user experiences seamless.  
 
