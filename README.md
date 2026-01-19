@@ -38,7 +38,7 @@ Check out my work & projects here 👉  <a href="https://mishu-singh.vercel.app/
 ---
 
 ### 📫 Let’s Connect  
-<a href="https://linkedin.com/in/mishu-singh" target="_blank">
+<a href="https://www.linkedin.com/in/mishu-singh-1202a217b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/mishusingh" target="_blank">
